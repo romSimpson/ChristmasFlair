@@ -27,11 +27,10 @@ public class LedTimer {
     }
 
     public void turnOn() {
-        // Check if it's within the specified time range to turn on the LED
+
         LocalTime currentTime = LocalTime.now();
         if (currentTime.isAfter(startTime) && currentTime.isBefore(endTime)) {
             ledState = true;
-            // Control your LEDs here using the Ws281xLedDriverInterface
         } else {
             System.out.println("LED shouldn't be turned ON at this time.");
         }
