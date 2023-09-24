@@ -49,5 +49,5 @@ class ledTimer {
 + getEndTime(): localTime
 - initLedStrip(): void
 }
-![img.png](img.png)
+![img.png](../../img.png)
 """

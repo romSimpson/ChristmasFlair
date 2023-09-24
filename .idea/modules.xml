@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ChristmasFlair.iml" filepath="$PROJECT_DIR$/.idea/ChristmasFlair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Timer/Timer.iml" filepath="$PROJECT_DIR$/Timer/Timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorIntensity/colorIntensity.iml" filepath="$PROJECT_DIR$/colorIntensity/colorIntensity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ledStuff/ledStuff.iml" filepath="$PROJECT_DIR$/ledStuff/ledStuff.iml" />
     </modules>
   </component>
 </project>
