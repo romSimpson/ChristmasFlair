@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AudioTest/AudioTest.iml" filepath="$PROJECT_DIR$/AudioTest/AudioTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ChristmasFlair.iml" filepath="$PROJECT_DIR$/.idea/ChristmasFlair.iml" />
       <module fileurl="file://$PROJECT_DIR$/Timer/Timer.iml" filepath="$PROJECT_DIR$/Timer/Timer.iml" />
       <module fileurl="file://$PROJECT_DIR$/colorIntensity/colorIntensity.iml" filepath="$PROJECT_DIR$/colorIntensity/colorIntensity.iml" />
